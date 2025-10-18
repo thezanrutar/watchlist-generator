@@ -1,4 +1,4 @@
-# Random movie generator
+# Random movie picker
 
 ~ from a watchlist ~
 
