@@ -7,6 +7,10 @@ they're always in the same order, and there's no way to simply pick a movie with
 
 A simple GUI application lets you select a watchlist and pick a random movie to watch.
 
+## Watchlist file
+
+Currently, the only supported file type is CSV.
+
 ## Source
 
 This is a Python 3.13 application and requires NumPy, Pandas, and PySide6 to run from source.
