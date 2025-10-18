@@ -17,7 +17,7 @@ This is a Python 3.13 application and requires NumPy, Pandas, and PySide6 to run
 
 ## Releases
 
-Releases are currently for Windows and macOS.
+Releases are currently for Windows only, but I'll add macOS and Linux in the future.
 
 ### Version 1.0b1
 
